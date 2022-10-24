@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 2023 Midwest Regional Meeting # Website name
+title: 2023 Joint Midwest - Great Lakes Regional Meeting # Website name
 baseURL: 'https://mwrm2023.org/' # Website URL
 
 ############################
