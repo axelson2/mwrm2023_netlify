@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 title: Contact
-subtitle:
+subtitle: Reach out to the planning team
 
 content:
   # Contact (edit or remove options as required)
@@ -31,6 +31,10 @@ content:
       icon_pack: fas
       name: Exhibits Committee
       link: 'mailto:exhibits@mwrm2023.org'
+    - icon: browser
+      icon_pack: fas
+      name: Website Admin
+      link: 'mailto:jeramia.ory@gmail.com'
 
   # Automatically link email and phone or display as text?
   autolink: true
