@@ -27,12 +27,12 @@ content:
   #   latitude: '38.7689'
   #   longitude: '-90.5023'
   contact_links:
-    - icon: comments
+    - icon: user-chart
       icon_pack: fas
       name: Exhibits Committee
       link: 'mailto:exhibits@mwrm2023.org'
     - icon: browser
-      icon_pack: fas
+      icon_pack: far
       name: Website Admin
       link: 'mailto:jeramia.ory@gmail.com'
 
