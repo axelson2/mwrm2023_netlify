@@ -31,8 +31,8 @@ content:
       icon_pack: fas
       name: Exhibits Committee
       link: 'mailto:exhibits@mwrm2023.org'
-    - icon: browser
-      icon_pack: far
+    - icon: fa-firefox-browser
+      icon_pack: fa-brands
       name: Website Admin
       link: 'mailto:jeramia.ory@gmail.com'
 
