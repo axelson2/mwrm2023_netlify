@@ -15,6 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
+  name: Contact the exhibits committee
   email: exhibits@mwrm2023.org
   address:
     street: 1 Convention Center Plaza
