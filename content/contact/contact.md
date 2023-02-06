@@ -15,23 +15,22 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  name: Contact the exhibits committee
-  email: exhibits@mwrm2023.org
-  address:
-    street: 1 Convention Center Plaza
-    city: St. Charles
-    region: MO
-    postcode: '63303'
-    country: United States
-    country_code: US
-  coordinates:
-    latitude: '38.7689'
-    longitude: '-90.5023'
-  #contact_links:
-  #  - icon: comments
-  #    icon_pack: fas
-  #    name: Discuss on Forum
-  #    link: 'https://discourse.gohugo.io'
+  # email: exhibits@mwrm2023.org
+  # address:
+  #   street: 1 Convention Center Plaza
+  #   city: St. Charles
+  #   region: MO
+  #   postcode: '63303'
+  #   country: United States
+  #   country_code: US
+  # coordinates:
+  #   latitude: '38.7689'
+  #   longitude: '-90.5023'
+  contact_links:
+    - icon: comments
+      icon_pack: fas
+      name: Exhibits Committee
+      link: 'mailto:exhibits@mwrm2023.org'
 
   # Automatically link email and phone or display as text?
   autolink: true
