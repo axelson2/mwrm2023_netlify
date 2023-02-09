@@ -1,5 +1,3 @@
-Title: Events
-
 ## Program at a Glance
 
 ### Technical Sessions:
