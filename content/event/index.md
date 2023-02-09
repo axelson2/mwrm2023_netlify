@@ -2,19 +2,19 @@ Title: Events
 
 ## Program at a Glance
 
-| Technical Sessions                                                                                                  |                                             |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| Analytical Chemistry                                                                                                | Contributed oral and poster presentations   |
-| Biochemistry                                                                                                        | Contributed oral and poster presentations   |
-| Chemical Education Research                                                                                         | Contributed oral and poster presentations   |
-| Theoretical, Computational, and Data-Driven Modeling Chemistry                                                      | Contributed oral and poster presentations   |
-| Inorganic Chemistry                                                                                                 | Contributed oral and poster presentations   |
-| Medicinal/Pharmaceutical Chemistry                                                                                  | Contributed oral and poster presentations   |
-| Organic Chemistry                                                                                                   | Contributed oral and poster presentations   |
-| Physical Chemistry                                                                                                  | Contributed oral and poster presentations   |
+### Technical Sessions:
+* Analytical Chemistry
+* Biochemistry
+* Chemical Education Research
+* Theoretical, Computational, and Data-Driven Modeling Chemistry
+* Inorganic Chemistry
+* Medicinal/Pharmaceutical Chemistry
+* Organic Chemistry
+* Physical Chemistry
 
+### Symposia
 
-| Symposium Titles                                                                                                    | Symposium Chair                             |
+| Title                                                                                                    | Chair                             |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | From clear flasks to green fields, utilizing a sustainability mindset in agrochemical active ingredient development | Justin Struble (Bayer)                      |
 | Innovative analytical measurements at the micro and nano scale                                                      | Scott Martin (SLU)                          |
