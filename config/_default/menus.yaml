@@ -17,7 +17,7 @@ main:
     url: exhibitors
     weight: 50
   - name: Lodging & Travel
-    url: lodging
+    url: lodgingtravel
     weight: 55
   - name: Contact
     url: contact
