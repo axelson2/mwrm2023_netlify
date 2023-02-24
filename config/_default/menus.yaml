@@ -10,11 +10,11 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: Events
-    url: event
+  - name: Program
+    url: program
     weight: 40
-  - name: Sponsors
-    url: sponsors
+  - name: Exhibitors
+    url: exhibitors
     weight: 50
   - name: Contact
     url: contact
