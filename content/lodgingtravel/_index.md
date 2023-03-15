@@ -19,8 +19,13 @@ Public transit options from the airport can be viewed here https://www.tripindic
 * Lambert-St. Louis Airport (STL), 14 miles from City Centre
 * MidAmerica St. Louis Airport (BLV), 23 miles from City Centre
 
-Lodging
+#### Hotels
 St. Louis offers a variety of accommodation. The closest hotels to the convention center include: 
 * Hotel 1
 * Hotel 2
 * Hotel 3
+
+#### Attractions
+For those looking for adventures and entertainment outside of the Convention Center, St. Louis also hosts music, theater, and art venues. Beyond the iconic Gateway Arch, visitors can take a walk through the Aquarium at Union Station, the St. Louis Zoo, or the Missouri Botanical Garden or join a sightseeing tour. The city also offers a variety of dining options, microbreweries and brewpubs. 
+
+Check out the Explore St. Louis website to better identify what might interest you! https://explorestlouis.com/
