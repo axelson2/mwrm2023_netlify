@@ -15,7 +15,7 @@ banner:
 The Fall 2023 Joint Midwest - Great Lakes Regional Meeting will take place at the St. Louis Convention Center. The Convention Center is located in the heart of the City Centre.
 
 #### Airports
-Public transit options from the airport can be viewed here https://www.tripindicator.com/which-st-louis-airport-is-best-to-fly-or-closest-to-rome-city-centre.html
+[Public transit options](https://www.tripindicator.com/which-st-louis-airport-is-best-to-fly-or-closest-to-rome-city-centre.html) from the airport can be viewed here https://www.tripindicator.com/which-st-louis-airport-is-best-to-fly-or-closest-to-rome-city-centre.html
 * Lambert-St. Louis Airport (STL), 14 miles from City Centre
 * MidAmerica St. Louis Airport (BLV), 23 miles from City Centre
 
