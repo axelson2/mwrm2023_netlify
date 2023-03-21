@@ -7,21 +7,27 @@ main:
   - name: Home
     url: home
     weight: 5
-  - name: News
-    url: post
-    weight: 20
-  - name: Organizing Committee
-    url: people
-    weight: 30
-  - name: Program
+  - name: Registration
+    url: registration
+    weight: 10
+    - name: Program
     url: program
-    weight: 40
-  - name: Exhibitors
-    url: exhibitors
+    weight: 20
+    - name: Exposition
+    url: exposition
     weight: 50
-  - name: Lodging & Travel
+    - name: Awards
+    url: awards
+    weight: 60
+    - name: Volunteer at MWRM
+    url: volunteer
+    weight: 70
+    - name: Lodging & Attractions
     url: lodgingtravel
-    weight: 55
+    weight: 80
+    - name: Organizing Committee
+    url: people
+    weight: 85
   - name: Contact
     url: contact
-    weight: 60
+    weight: 90
