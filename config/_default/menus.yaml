@@ -11,10 +11,14 @@ main:
     parent: attend
     url: registration
     weight: 11
+  - name: Abstract Submission
+    parent: attend
+    url: abstract
+    weight: 13
   - name: Volunteer at MWRM
     parent: attend
     url: volunteer
-    weight: 13
+    weight: 15
   - name: Program
     url: program
     weight: 20
