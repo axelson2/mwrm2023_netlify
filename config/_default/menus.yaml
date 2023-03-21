@@ -26,8 +26,16 @@ main:
     url: exposition
     weight: 50
   - name: Awards
-    url: awards
+    identifier: award1
     weight: 60
+  - name: Awards & Criteria
+    parent: award1
+    url: awards
+    weight: 61
+  - name: Award Winners
+    parent: award1
+    url: awardwin
+    weight: 63
   - name: Lodging & Attractions
     url: lodgingtravel
     weight: 80
