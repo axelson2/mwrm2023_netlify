@@ -4,12 +4,17 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: home
-    weight: 5
-  - name: Registration
-    url: registration
+  - name: Attend
+    identifier: attend
     weight: 10
+  - name: Registration
+    parent: attend
+    url: registration
+    weight: 11
+  - name: Volunteer at MWRM
+    parent: attend
+    url: volunteer
+    weight: 13
   - name: Program
     url: program
     weight: 20
@@ -19,15 +24,17 @@ main:
   - name: Awards
     url: awards
     weight: 60
-  - name: Volunteer at MWRM
-    url: volunteer
-    weight: 70
   - name: Lodging & Attractions
     url: lodgingtravel
     weight: 80
-  - name: Organizing Committee
-    url: people
-    weight: 85
   - name: Contact
-    url: contact
+    identifier: contact1
     weight: 90
+  - name: Contact Info
+    parent: contact1
+    url: contact
+    weight: 91
+  - name: Organizing Committee
+    parent: contact1
+    url: people
+    weight: 93
