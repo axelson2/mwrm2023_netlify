@@ -10,22 +10,22 @@ main:
   - name: Registration
     url: registration
     weight: 10
-    - name: Program
+  - name: Program
     url: program
     weight: 20
-    - name: Exposition
+  - name: Exposition
     url: exposition
     weight: 50
-    - name: Awards
+  - name: Awards
     url: awards
     weight: 60
-    - name: Volunteer at MWRM
+  - name: Volunteer at MWRM
     url: volunteer
     weight: 70
-    - name: Lodging & Attractions
+  - name: Lodging & Attractions
     url: lodgingtravel
     weight: 80
-    - name: Organizing Committee
+  - name: Organizing Committee
     url: people
     weight: 85
   - name: Contact
