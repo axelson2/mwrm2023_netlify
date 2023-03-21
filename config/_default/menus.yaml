@@ -11,7 +11,7 @@ main:
     parent: attend
     url: registration
     weight: 11
-  - name: Abstract Submission
+  - name: Call for Abstracts
     parent: attend
     url: abstract
     weight: 13
