@@ -21,7 +21,7 @@ On-site registration will be in XXX.
 * Friday, Oct. 20 –  7:00 AM – 3:00 PM
 
 | Registration Type                          	| Early Bird Price 	| Regular/Onsite Price 	|
-|--------------------------------------------	|:----------------:	|:--------------------:	|
+|--------------------------------------------	|:------------------:	|:----------------------:	|
 | ACS Member                                 	|       $100       	|         $120         	|
 | non-ACS Member                             	|       $120       	|         $140         	|
 | Undergraduate Student (ACS Member)         	|        $30       	|          $40         	|
