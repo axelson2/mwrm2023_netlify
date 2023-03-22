@@ -10,8 +10,6 @@ banner:
   image: ''
 
 ---
-### Traveling to St. Louis, MO
-
 The Fall 2023 Joint Midwest/Great Lakes Regional Meeting will take place at the St. Charles Convention Center. The St. Charles Convention Center is located just northeast of St. Louis, near the intersection of Highway 70 and 5th Street in St. Charles, Missouri. 
 
 #### Airports
