@@ -1,5 +1,5 @@
 ---
-title: Volunteer at MWRM
+title: Volunteer at MWGLRM
 
 # Listing view
 view: compact

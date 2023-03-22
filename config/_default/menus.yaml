@@ -15,7 +15,7 @@ main:
     parent: attend
     url: abstract
     weight: 13
-  - name: Volunteer at MWRM
+  - name: Volunteer at MWGLRM
     parent: attend
     url: volunteer
     weight: 15
