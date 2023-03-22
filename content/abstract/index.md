@@ -10,8 +10,7 @@ banner:
   image: ''
 
 ---
-### Are you looking to volunteer at the Midwest Regional Meeting, October 18-20, 2023?
+### Abstract submission for the MWGLRM will open on June 5, 2023.
 
-We are in need of volunteers for each half day session (Wednesday afternoon – Friday afternoon) at the meeting. If you are able to help with 3 of the half day sessions, the MWRM planning committee will cover the cost of registration for the conference.
-
-If you are able to volunteer for any half day session of the conference, please sign up here:
+Submit your abstract
+{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
