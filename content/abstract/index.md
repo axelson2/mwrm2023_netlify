@@ -13,4 +13,4 @@ banner:
 ### Abstract submission for the MWGLRM will open on June 5, 2023.
 
 Submit your abstract
-{{< cta cta_text="Do something" cta_link="/" cta_new_tab="false" >}}
+{{< cta cta_text="Submit an Abstract" cta_link="https://www.acs.org/meetings/regional/midwest.html#:~:text=The%202023%20Joint%20Midwest%20%E2%80%93%20Great,Illinois%20Sections%20of%20the%20ACS." cta_new_tab="true" >}}
