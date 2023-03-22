@@ -14,6 +14,8 @@ Registration will open on XXX for the 2023 MWGLRM in St. Charles, MO.
 
 Take advantage of the early bird prices by registering by September XX, 2023!
 
+{{< cta cta_text="Register Now" cta_link="https://www.acs.org/meetings/regional/midwest.html#:~:text=The%202023%20Joint%20Midwest%20%E2%80%93%20Great,Illinois%20Sections%20of%20the%20ACS." cta_new_tab="true" >}}
+
 On-site registration will take place XXX.
 
 * Wednesday, Oct. 18 –  9 AM – 8:30 PM
