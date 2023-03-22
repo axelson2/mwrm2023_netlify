@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
+title: Organizing Committee
 subtitle:
 
 content:
@@ -27,3 +27,12 @@ design:
   show_role: true
   show_social: true
 ---
+## General Co-Chairs
+* Susan Hartmann
+* Jose Andino M.
+
+## Program Co-Chairs
+* Alex Mironenko
+* Leah O'Brien
+* Marv Myers
+* Jim O'Brien
