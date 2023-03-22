@@ -20,7 +20,7 @@ On-site registration will take place XXX.
 * Thursday, Oct. 19 –  7:00 AM –  7:30 PM
 * Friday, Oct. 20 –  7:00 AM – 3:00 PM
 
-| Registration Type                          | Early Bird<br>Price |   | Regular/Onsite<br>Price |
+| Registration Type                          | Early Bird<br>Price |     | Regular/Onsite<br>Price |
 |--------------------------------------------|:-------------------:|---|:-----------------------:|
 | ACS Member                                 |         $100        |   |           $120          |
 | non-ACS Member                             |         $120        |   |           $140          |
