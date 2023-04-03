@@ -11,13 +11,11 @@ banner:
 
 ---
 ### Exhibition 
-Time
-Date
-Place
+The 57th Midwest/50th Great Lakes Joint Regional Meeting of the American Chemical Society will be held in St Louis, October 18-21, 2023, at the St Charles Convention Center.
 
 ### Information for Exhibitors
 
-The 57th Midwest/50th Great Lakes Joint Regional Meeting of the American Chemical Society will be held in St Louis, October 18-21, 2023, at the St Charles Convention Center. We expect over 1,000 chemical scientists and professionals to attend. Our outstanding line-up of technical programs and networking opportunities will attract chemists from industrial, academic and government laboratories, as well as high schools, medical schools and more.  
+We expect over 1,000 chemical scientists and professionals to attend. Our outstanding line-up of technical programs and networking opportunities will attract chemists from industrial, academic and government laboratories, as well as high schools, medical schools and more.  
 
 We have space for 50 exhibitors, and will share space with posters and food breaks, ensuring maximum exposure for your company. The cost will be $900 for a booth, which includes meeting registrations for two people.  A reduced price of $400 applies to academic exhibitors, but only one meeting registration is included.  Sponsorships are also available at al levels, including:
 
