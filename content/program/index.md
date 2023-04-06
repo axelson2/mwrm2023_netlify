@@ -34,7 +34,7 @@ banner:
 | Organometallic Catalysis Research at PUIs                                                                           | Jocelyn Lanorio (Ill. College)              |
 | Bioprocess Chemistry                                                                                                | Jie Dong (SIUE)                             |
 | Safety in the Undergraduate Lab                                                                                     | Sue Wiediger (SIUE)                         |
-| Chemical Education (CHED)                                                                                           | Jose Martinez (UIUC)                        |
+| To flip or not to flip? How to maintain students' attention post-pandemic.(CHED)                                                                                           | Jose Andino Martinez (UIUC)                        |
 | Beyond the boundaries of computational chemistry and catalysis                                                      | Alex Mironenko (UIUC)                       |
 | Analytical Techniques for Environmental Chemistry                                                                   | Kevin Tucker (SIUE)                         |
 | Radiochemistry: From Radioactivity to Drug Product                                                                  | Mike Nickels                                |
