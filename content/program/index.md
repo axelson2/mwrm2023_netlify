@@ -24,28 +24,28 @@ banner:
 
 | Title                                                                                                    | Chair                             |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| From clear flasks to green fields, utilizing a sustainability mindset in agrochemical active ingredient development | Justin Struble (Bayer)                      |
-| Innovative analytical measurements at the micro and nano scale                                                      | Scott Martin (SLU)                          |
-| Nucleic Acids                                                                                                       | John-Stephen Taylor (WU)                    |
-| Proteins and Lipids                                                                                                 | Jim Bashkin (UMSL)                          |
-| Probing Biological Chemistry                                                                                        | Michael Beck (EIU)                          |
+| From Clear Flasks to Green Fields: Utilizing a Sustainability Mindset in Agrochemical Active Ingredient Development | Justin Struble (Bayer)                      |
+| Innovative Analytical Measurements at the Micro and Nano scale                                                      | Scott Martin (St. Louis Univ.)                          |
+| Nucleic Acids                                                                                                       | John-Stephen Taylor (Washington Univ. in St. Louis)                    |
+| Proteins and Lipids                                                                                                 | James Bashkin (Univ. of Missouri, St. Louis)                          |
+| Probing Biological Chemistry                                                                                        | Michael Beck (Eastern Illinois Univ.)                          |
 | Biotherapeutic Process Development and Manufacture in the Midwest                                                   | Steve Kolodziej (Pfizer)                    |
-| Novel Approaches to Traditional Challenges in Glycoscience                                                          | Cristina De Meo                             |
-| Organometallic Catalysis Research at PUIs                                                                           | Jocelyn Lanorio (Ill. College)              |
-| Bioprocess Chemistry                                                                                                | Jie Dong (SIUE)                             |
-| Safety in the Undergraduate Lab                                                                                     | Sue Wiediger (SIUE)                         |
-| To flip or not to flip? How to maintain students' attention post-pandemic.(CHED)                                                                                           | Jose Andino Martinez (UIUC)                        |
-| Beyond the boundaries of computational chemistry and catalysis                                                      | Alex Mironenko (UIUC)                       |
-| Analytical Techniques for Environmental Chemistry                                                                   | Kevin Tucker (SIUE)                         |
-| Radiochemistry: From Radioactivity to Drug Product                                                                  | Mike Nickels                                |
-| Electrochemistry                                                                                                    | Mike Shaw                                   |
-| Organic Solids                                                                                                      | Ryan Groeneman                              |
-| Medicinal Chemistry                                                                                                 | Marv Meyers                                 |
-| Medicinal Chemistry                                                                                                 | Mike Crider                                 |
-| Physical Organic - Kinetics                                                                                         | Yun Lu (SIUE)                               |
-| Flow Chemistry                                                                                                      | Todd Stark (API Innov Ctr)                  |
-|  Theoretical Chemistry                                                                                              | Kade Marsden-Head (WU)                      |
-| Industry meets academy meets medicine — with magnetic resonance and  NMR                                            | Sophia Hayes (WU) + Blake Hammonn           |
-| Synthesis and characterization for functional polymeric materials                                                   | Alexa Kuenstler (UIUC) + Whitney Loo (UW-M) |
+| Carbohydrates & Glycosylations                                                          | Cristina De Meo (Southern Illinois Univ. Edwardsville)                             |
+| Organometallic Catalysis Research at PUIs                                                                           | Jocelyn Lanorio (Illinois College)              |
+| Bioprocess Chemistry                                                                                                | Jie Dong (Southern Illinois Univ. Edwardsville)                             |
+| Safety in the Undergraduate Lab                                                                                     | Sue Wiediger (Southern Illinois Univ. Edwardsville)                         |
+| To Flip or Not to Flip? How to Maintain Students' Attention Post Pandemic                                                                                           | Jose Andino Martinez (UIUC)                        |
+| Beyond the Boundaries of Computational Chemistry and Catalysis                                                      | Alex Mironenko (UIUC)                       |
+| Analytical Techniques in Environmental Chemistry                                                                   | Kevin Tucker (Southern Illinois Univ. Edwardsville)                         |
+| Radiochemistry: From Radioactivity to Drug Product                                                                  | Mike Nickels (Vanderbilt Univ.)                                |
+| Electrochemistry                                                                                                    | Mike Shaw (Southern Illinois Univ. Edwardsville)                                   |
+| Organic Solids                                                                                                      | Ryan Groeneman (Webster Univ.)                             |
+| Medicinal Chemistry & Chemical Biology: Discovering New Biology and New Drugs Through Chemistry                                                                                                 | Marv Meyers (St. Louis Univ.) & Mike Crider (Southern Illinois Univ. Edwardsville)                                 |
+| Organic Reaction Mechanisms                                                                                         | Yun Lu (Southern Illinois Univ. Edwardsville)                               |
+| Flow Chemistry                                                                                                      | Todd Stark (API Innovation Center)                  |
+| Chemical Theory Across Scales                                                                                              | Kade Marsden-Head & Robert Wexler (Washington Univ. in St. Louis)                      |
+| Solid State NMR                                          | Sophia Hayes (Washington Univ. in St. Louis)          |
+| Synthesis and Characterization for Functional Polymeric Materials                                                   | Alexa Kuenstler (UIUC) & Whitney Loo (UW-Madison) |
 | Process Development in Industry: Solving Problems                                                                   | Michael Tracey (Cambrex)                    |
-| Organometallic Chemistry of Earth Abundant Transition Metals                                                        | Jamie Neely (SLU)                           |
+| Organometallic Chemistry of Earth Abundant Transition Metals                                                        | Jamie Neely (St. Louis Univ.)                           |
+| Environmental Chemistry in Agriculture                                                        | Leah Riter (Bayer)                           |
